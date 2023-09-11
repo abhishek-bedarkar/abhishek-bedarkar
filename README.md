@@ -1,9 +1,23 @@
+[![MasterHead](./media/all_logos.png)]
 <h1 align="center">Hi 👋, I'm Abhishek Bedarkar</h1>
-<h3 align="center">A data enthusiast with a knack for turning bytes into insights.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A data engineer with a knack for turning bytes into insights.</h3>
+
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-bedarkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-bedarkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+📖 Data Science graduate from University at Buffalo - SUNY.
+
+
+🧐 Currently learning Machine learning, NLP and Generative AI.
+
+💡 Always open to collaborating on projects and innovative ideas.
+
+💬 Ask me about Java, Python, Spark, Airflow.
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
