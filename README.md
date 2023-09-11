@@ -1,4 +1,4 @@
-[![MasterHead](./media/all_logos.png)]
+![MasterHead](./media/all_logos.png)
 <h1 align="center">Hi 👋, I'm Abhishek Bedarkar</h1>
 <h3 align="center">A data engineer with a knack for turning bytes into insights.</h3>
 
