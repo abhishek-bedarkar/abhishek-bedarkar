@@ -1,5 +1,5 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abhishek-bedarkar&data=commits,repositories,followers)](https://github.com/abhishek-bedarkar)
-<h3 align="center">Hi 👋, I'm Abhishek, A Data Engineer with a knack for turning bytes into insights.</h3>
+<h1 align="center" >Hi 👋, I'm Abhishek </h1>
+<h3 align="center">A Data Engineer with a knack for turning bytes into insights.</h3>
 
 <br/>
 <p>
