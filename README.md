@@ -3,8 +3,6 @@
 <h3 align="center">A data engineer with a knack for turning bytes into insights.</h3>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-bedarkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-bedarkar" /> </p>
-
 <p>
     <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
